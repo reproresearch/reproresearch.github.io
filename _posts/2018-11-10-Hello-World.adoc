@@ -5,5 +5,5 @@
  :hp-tags: HubPress, Blog, Open_Source,
  :hp-alt-title: My English Title
 
-== Hello World
+== About
 It took a while to get this published. This will contain my experiments with reproducible research using Asciidoc and Rstudio. 

@@ -6,4 +6,4 @@
  :hp-alt-title: My English Title
 
 == Hello World
-It took a while to get this published. 
+It took a while to get this published. This will contain my experiments with reproducible research using Asciidoc and Rstudio. 
